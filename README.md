@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I LOVE COMPUTERS
 
   
-[![roadmap.sh](https://roadmap.sh/card/wide/66a2533f23c186c28d7cf370?variant=dark&roadmaps=python)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/66a2533f23c186c28d7cf370?variant=dark)](https://roadmap.sh)
 
 
 
