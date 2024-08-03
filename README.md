@@ -9,7 +9,7 @@
 
   
 [![roadmap.sh](https://roadmap.sh/card/wide/66a2533f23c186c28d7cf370?variant=dark&roadmaps=python)](https://roadmap.sh)
-[![roadmap.sh](https://roadmap.sh/card/wide/66a2533f23c186c28d7cf370?variant=dark&roadmaps=python)](https://roadmap.sh/sql?s=66a2533f23c186c28d7cf370)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-jayakumar-2003&layout=compact)
