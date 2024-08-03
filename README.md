@@ -9,10 +9,6 @@
 
   
 [![roadmap.sh](https://roadmap.sh/card/tall/66a2533f23c186c28d7cf370?variant=dark)](https://roadmap.sh)
-
-
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-jayakumar-2003&layout=compact)
 
 
