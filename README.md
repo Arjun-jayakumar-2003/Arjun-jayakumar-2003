@@ -6,10 +6,12 @@
 - You can find more about me on [LinkedIn](https://www.linkedin.com/in/ARJUNJAYAKUMAR2003/).
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: I LOVE COMPUTERS
+
+  
 [![roadmap.sh](https://roadmap.sh/card/wide/66a2533f23c186c28d7cf370?variant=dark&roadmaps=python)](https://roadmap.sh)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-jayakumar-2003&layout=compact)
 
-### Languages I Know
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
