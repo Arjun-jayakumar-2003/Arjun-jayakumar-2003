@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arjun-jayakumar-2003
 - 👀 I’m interested in python,java,c++,html,css,javascript
-- 🌱 I’m currently learning python,html,css
+- 🌱 I’m currently learning python,c
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me arjunjayakumar34@gmail.com
 - You can find more about me on [LinkedIn](https://www.linkedin.com/in/ARJUNJAYAKUMAR2003/).
