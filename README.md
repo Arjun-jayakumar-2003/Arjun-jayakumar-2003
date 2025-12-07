@@ -9,7 +9,13 @@
 
   
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-jayakumar-2003&layout=compact)
+
+![TryHackMe Stats](https://thmstats.vercel.app/api?username=arjunjayakumar34&showBadges=true)
+
+
+
+
+
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
