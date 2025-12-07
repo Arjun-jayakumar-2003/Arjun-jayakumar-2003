@@ -10,10 +10,12 @@
   
 
 
-![TryHackMe Stats](https://thmstats.vercel.app/api?username=arjunjayakumar34&showBadges=true)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/arjunjayakumar34.png)](https://tryhackme.com/p/arjunjayakumar34)
 
 
 
+
+**TryHackMe:** [arjunjayakumar34](https://tryhackme.com/p/arjunjayakumar34)
 
 
 
