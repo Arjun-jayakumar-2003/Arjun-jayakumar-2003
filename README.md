@@ -10,7 +10,7 @@
   
 
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/arjunjayakumar34.png)](https://tryhackme.com/p/arjunjayakumar34)
+
 
 
 
